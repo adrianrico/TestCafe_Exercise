@@ -1,0 +1,10 @@
+{
+
+  "scripts": {
+    "test": "testcafe Edge TESTING/test_00.js"
+},
+
+  "dependencies": {
+    "testcafe": "^2.0.0"
+  }
+}
